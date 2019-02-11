@@ -81,7 +81,7 @@
 <version>2.0</version>
 <configuration>
 <deploymentType>cloudhub</deploymentType>
-<muleVersion>3.8.4</muleVersion>
+<muleVersion>3.9.0</muleVersion>
 <username>${anypoint.username}</username>
 <password>${anypoint.password}</password>
 <redeploy>true</redeploy>
